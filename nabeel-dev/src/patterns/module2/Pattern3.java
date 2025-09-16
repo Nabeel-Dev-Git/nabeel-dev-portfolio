@@ -1,4 +1,4 @@
-package patterns.lecture2;
+package patterns.module2;
 
 import java.util.Scanner;
 
