@@ -1,0 +1,33 @@
+Q1. Print the following pattern for the given number of rows.
+Pattern for N = 4
+
+        ...1
+        ..232
+        .34543
+        4567654
+
+-----------------------------------------
+
+Q2.Print the following pattern for the given number of rows.
+
+Note: N is always odd.
+Pattern for N = 5
+
+  *
+ ***
+*****
+ ***
+  *
+The dots represent spaces.
+
+
+Sample Input 2:
+3
+
+
+Sample Output 2:
+  *
+ ***
+  *
+
+
